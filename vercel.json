@@ -3,7 +3,6 @@
     "builds": [
       {
         "src": "index.html",
-        "img": "img/*",
         "use": "@vercel/static"
       }
     ]
